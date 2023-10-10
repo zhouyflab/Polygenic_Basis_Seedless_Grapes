@@ -1,13 +1,13 @@
-Polygenetic_Basis_Seedless_Grapes <img src="https://github.com/zhouyflab/Polygenetic_Basis_Seedless_Grapes/blob/main/TS.BM.jpg" align="right" width="45%">
+Polygenetic_Basis_Seedless_Grapes
 ====================
-**Integrative genomics reveals the polygenic basis of seedless in grapevine**
+**Integrative genomics reveals the polygenic basis of seedless in grapevine**  <img src="https://github.com/zhouyflab/Polygenetic_Basis_Seedless_Grapes/blob/main/grape.profile.jpg" align="right" width="45%">
 
 Seedlessness is a crucial quality trait in table grape breeding. However, the development of seeds involved intricate regulations and the polygenic basis of seed abortion remains unclear. Our study combine comparative genomics, population genetics, quantitative genetics and intagretive genomics to unravel the evolution and polygenic basis of seedlessness in grapes...
 
 **Keywords**: Viticulture, Seed abortion, T2T genome, Structural variations, GWAS, Genomic selection
 
 ## Methods
-### [Haplotype_Genome_Assembly](https://github.com/Immortal2333/Haplotype_Genome_Assembly) <img src="https://github.com/zhouyflab/Polygenetic_Basis_Seedless_Grapes/blob/main/grape.profile.jpg" align="right" width="45%">
+### [Haplotype_Genome_Assembly](https://github.com/Immortal2333/Haplotype_Genome_Assembly) 
 ### [Genome Wide Annotation Pipeline](https://github.com/unavailable-2374/Genome-Wide-Annotation-Pipeline) 
 ### [To Find Telomeres and Centromeres](https://github.com/Immortal2333/Telomeres_and_Centromeres)
 ### [Pan-genome TE Annotation Pipeline](https://github.com/unavailable-2374/TE_Detective-Annotation)

@@ -17,7 +17,7 @@ Seedlessness is a crucial quality trait in table grape breeding. However, the de
 ### [Genome Selection for Grape Seedlessness](https://github.com/Immortal2333/Genome_Selection_for_Grape_Seedlessness) 
 
 ## Data availability
-The raw sequencing data be accessed at NCBI Sequence Read Archive under project number PRJNA1021353 and National Genomics Data Center (NGDC) Genome Sequence Archive (GSA) (XXX), includes PacBio HiFi, Illumina Hi-C, and 29 WGS accessions. The genome assembly, genome annotations, chloroplast genomes, mitochondria genomes, EDTA annotations, panTE annotations, TRF annotation,  in this study have been deposited into in zenodo (https://doi.org/10.5281/zenodo.8278185) and in the GRAPEDIA portal (XXX).
+The raw sequencing data be accessed at NCBI Sequence Read Archive under project number PRJNA1021353 and National Genomics Data Center (NGDC) Genome Sequence Archive (GSA) (XXX), includes PacBio HiFi, Illumina Hi-C, and 29 WGS accessions. The genome assembly, genome annotations, chloroplast genomes, mitochondria genomes, EDTA annotations, panTE annotations, TRF annotation,  in this study have been deposited into in zenodo (https://doi.org/10.5281/zenodo.8278185).
 
 ## Citations
 

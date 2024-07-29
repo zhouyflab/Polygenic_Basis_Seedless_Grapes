@@ -7,7 +7,7 @@ Seedlessness is a crucial quality trait in table grape breeding. However, the de
 **Keywords**: Viticulture, Seed abortion, T2T genome, Structural variations, GWAS, Genomic selection
 
 ## Methods
-### [Haplotype Genome Assembly](https://github.com/Immortal2333/Haplotype_Genome_Assembly) <img src="https://github.com/zhouyflab/Polygenic_Basis_Seedless_Grapes/blob/main/AB.png" align="right" width="45%">
+### [Haplotype Genome Assembly](https://github.com/Immortal2333/Haplotype_Genome_Assembly) <img src="https://github.com/zhouyflab/Polygenic_Basis_Seedless_Grapes/blob/main/AB.png" align="right" width="50%">
 ### [Genome Wide Annotation Pipeline](https://github.com/unavailable-2374/Genome-Wide-Annotation-Pipeline) 
 ### [To Find Telomeres and Centromeres](https://github.com/Immortal2333/Telomeres_and_Centromeres)
 ### [Pan-genome TE Annotation Pipeline](https://github.com/unavailable-2374/TE_Detective-Annotation)

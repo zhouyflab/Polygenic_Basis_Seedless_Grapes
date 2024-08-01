@@ -1,4 +1,4 @@
-Polygenic_Basis_Seedless_Grapes
+Polygenic Basis of Seedless Grapes
 ====================
 **Integrative genomics reveals the polygenic basis of seedless in grapevine (*Vitis vinifera* L.)** 
 
@@ -22,5 +22,8 @@ The raw sequencing data, comprising PacBio HiFi long-reads, Illumina Hi-C reads,
 The genome assembly and their annotations have been deposited into in Zenodo: [https://doi.org/10.5281/zenodo.8278185](https://doi.org/10.5281/zenodo.8278185), and NCBI BioSample accessions: `SAMN37625511` and `SAMN37625512`.
 
 ## Citations
+Wang, Xu, et al. "Integrative genomics reveals the polygenic basis of seedlessness in grapevine" ***Current Biology*** (2024). doi: [https://doi.org/10.1016/j.cub.2024.07.022](https://doi.org/10.1016/j.cub.2024.07.022)
 
-If you have any questions, please feel free to contact: Yongfeng Zhou: zhouyongfeng@caas.cn, or Xu Wang: 571720850@qq.com
+If you have any questions, please do not hesitate to contact us.
+
+**Yongfeng Zhou**: zhouyongfeng@caas.cn, or **Xu Wang**: 571720850@qq.com

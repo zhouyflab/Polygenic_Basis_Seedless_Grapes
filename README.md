@@ -10,7 +10,7 @@ Seedlessness is a crucial quality trait in table grape breeding. However, the de
 ### [Haplotype Genome Assembly](https://github.com/Immortal2333/Haplotype_Genome_Assembly) <img src="https://github.com/zhouyflab/Polygenic_Basis_Seedless_Grapes/blob/main/AB.png" align="right" width="50%">
 ### [Genome Wide Annotation Pipeline](https://github.com/unavailable-2374/Genome-Wide-Annotation-Pipeline) 
 ### [To Find Telomeres and Centromeres](https://github.com/Immortal2333/Telomeres_and_Centromeres)
-### [Pan-genome TE Annotation Pipeline](https://github.com/unavailable-2374/TE_Detective-Annotation)
+### [Pan-genome TE Annotation Pipeline](https://github.com/unavailable-2374/Pan_TE)
 ### [Population Genetic Analysis Pipeline](https://github.com/Immortal2333/Population_Genetic_Analysis_Pipeline) 
 ### [Genome Wide Association Study](https://github.com/Immortal2333/Genome_Wide_Association_Study)
 ### [Integrative Genomic Analysis Pipeline](https://github.com/Immortal2333/Integrative_Genomic_Analysis_Pipeline)
